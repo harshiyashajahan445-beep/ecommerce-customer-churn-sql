@@ -9,7 +9,7 @@ Welcome to another SQL data analysis project in my repository! In this project, 
 
 ## 📁 Repository Structure
 
-* `E-Commerce Customer churn db` - The original database schema and dataset (INSERT statements).
+* `dataset/customer_churn_dataset.sql` - The original database schema and dataset (INSERT statements).
 * `ecom_churn_analysis.sql` - Complete SQL script containing data cleaning, transformation, and analytical queries.
 * `README.md` - Project summary and instructions.
 
@@ -25,7 +25,7 @@ Welcome to another SQL data analysis project in my repository! In this project, 
 ## ⚙️ How to Run This Project
 
 1. **Set Up Database:**
-   * Open `E-Commerce Customer churn db` in MySQL Workbench and run the script to create the database (`ecomm`) and populate the `customer_churn` table.
+   * Open `dataset/customer_churn_dataset.sql` in MySQL Workbench and run the script to create the database (`ecomm`) and populate the `customer_churn` table.
 
 2. **Run Analysis & Cleaning Script:**
    * Open `ecom_churn_analysis.sql` in MySQL Workbench.
